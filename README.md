@@ -1,4 +1,4 @@
-# Asteroid-LSTM
+# PREDICTING MISSING DIAMETER VALUES FOR ASTEROIDS
 Predicting the missing values for the diameter of an asteroid using deep learning technique LSTM( Long Short Term Memory) 
 
 The dataset has been gathered from Jet Propulsion Laboratory of California Institute of Technology which is a part of the NASA. 
